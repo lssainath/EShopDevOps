@@ -1,0 +1,2 @@
+# EShopDevOps
+Devops around eshopOncontainers
